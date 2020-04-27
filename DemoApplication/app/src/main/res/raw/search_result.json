@@ -1,0 +1,18 @@
+{
+  "_id": "Catalog:0011",
+  "_rev": "31--23123312knlkn23",
+  "type": "Catalog",
+  "sort_order": 1,
+  "catalog_name": "MAIN COURSE",
+  "company_code": "SNCF",
+  "airline_iata_code": "SNCF",
+  "category_ids": [
+    "Category:0001",
+    "Category:0002"
+  ],
+  "active": true,
+  "created_by": "test@airfi.aero",
+  "last_updated_by": "test@airfi.aero",
+  "created_on": "2019-11-14T14:39:18.124+05:30",
+  "last_updated_on": "2019-11-14T14:39:18.124+05:30"
+}
